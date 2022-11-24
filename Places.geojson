@@ -1,0 +1,1109 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -158.0576548,21.6378001 ]
+    },
+    "properties": {
+    "ID":1,
+    "Name":"Waimea Valley",
+    "Activity":"Play",
+    "Detail":"Hike",
+    "Address":"Waimea Valley Road, Haleiwa, Hawaii 96712",
+    "Link":"https://thistraveldream.com/waimea-falls/",
+    "Description":"Waterfall with botanical garden in north shore. Close to shark's cove and food trucks"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.6972964,21.2710687 ]
+    },
+    "properties": {
+    "ID":2,
+    "Name":"Hanauma Bay",
+    "Activity":"Play",
+    "Detail":"Snorkel",
+    "Address":"7455 Kalanianaʻole Hwy, Honolulu, HI 96825",
+    "Link":"https://pros2.hnl.info/hanauma-bay",
+    "Description":"Popular state park featuring a sandy beach, snorkeling, a coral reef & an education center. Only open Wednesday thru Sunday"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.8323125,21.2676875 ]
+    },
+    "properties": {
+    "ID":3,
+    "Name":"Turtle Canyon",
+    "Activity":"Play",
+    "Detail":"Snorkel",
+    "Address":"7599+33, Honolulu, HI",
+    "Link":"https://www.tripadvisor.com/AttractionProductReview-g29222-d11447891-Turtle_Canyon_Catamaran_Snorkel_Cruise_from_Waikiki-Oahu_Hawaii.html",
+    "Description":"Nature preserve in Honolulu County, Hawaii"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -158.0823892,21.3337389 ]
+    },
+    "properties": {
+    "ID":4,
+    "Name":"K'Olina Lagoons",
+    "Activity":"Play",
+    "Detail":"Snorkel",
+    "Address":"Ulua Lagoon,, Kapolei, HI 96707",
+    "Link":"http://koolina.com/destination/lagoons/",
+    "Description":"Ko Olina encompasses 642 acres featuring a string of four jewel-like lagoons connected by more than a mile and a half of seaside pathways."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.837278,21.520742 ]
+    },
+    "properties": {
+    "ID":5,
+    "Name":"Kualoa Ranch",
+    "Activity":"Play",
+    "Detail":"ATV",
+    "Address":"49-560 Kamehameha Hwy, Kaneohe, HI 96744",
+    "Link":"https://www.kualoa.com/jurassic-adventure-tour/",
+    "Description":"Kualoa is a 4,000-acre private nature reserve and working cattle ranch, as well as a popular tourist attraction and filming location on the windward coast of Oʻahu in Hawaiʻi. It is about 24 miles from Honolulu, and 32 miles from Haleiwa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.8266361,21.2765462 ]
+    },
+    "properties": {
+    "ID":6,
+    "Name":"Moana Lani Spa",
+    "Activity":"Play",
+    "Detail":"Spa",
+    "Address":"2365 Kalākaua Ave, Honolulu, HI 96815",
+    "Link":"https://www.moanalanispa.com/",
+    "Description":"With luxurious facilities and a warm staff that embodies the aloha spirit, Moana Lani Spa has been recognized as one of the best spas in Hawaii and the country."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -158.0377136,21.5260075 ]
+    },
+    "properties": {
+    "ID":7,
+    "Name":"Dole Plantation",
+    "Activity":"Play",
+    "Detail":"Tour",
+    "Address":"64-1550 Kamehameha Hwy, Wahiawa, HI 96786",
+    "Link":"https://www.doleplantation.com/",
+    "Description":"Historic pineapple plantation now attracts families with a train ride & the world's largest maze."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.8587331,21.3068174 ]
+    },
+    "properties": {
+    "ID":8,
+    "Name":"Iolani Palace",
+    "Activity":"Play",
+    "Detail":"Tour",
+    "Address":"364 S King St, Honolulu, HI 96813",
+    "Link":"https://www.iolanipalace.org/",
+    "Description":"The ʻIolani Palace was the royal residence of the rulers of the Kingdom of Hawaiʻi beginning with Kamehameha III under the Kamehameha Dynasty and ending with Queen Liliʻuokalani under the Kalākaua Dynasty, founded by her brother, King David Kalākaua"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.8322482,21.4306937 ]
+    },
+    "properties": {
+    "ID":9,
+    "Name":"Byodo-In Temple",
+    "Activity":"Play",
+    "Detail":"Tour",
+    "Address":"47-200 Kahekili Hwy, Kaneohe, HI 96744",
+    "Link":"https://byodo-in.com/",
+    "Description":"The Byodo-In Temple is a non-denominational Buddhist temple located on the island of Oʻahu in Hawaiʻi in Valley of the Temples Memorial Park. It was dedicated in August 1968 to commemorate the 100th anniversary of the first Japanese immigrants to Hawaiʻi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.7949294,21.2568499 ]
+    },
+    "properties": {
+    "ID":10,
+    "Name":"Shangri La",
+    "Activity":"Play",
+    "Detail":"Tour",
+    "Address":"4055 Pāpū Cir, Honolulu, HI 96816",
+    "Link":"https://www.shangrilahawaii.org/",
+    "Description":"The Shangri La Museum of Islamic Art, Culture & Design is housed in the former home of Doris Duke near Diamond Head just outside Honolulu, Hawaii. It is now owned and operated as a public museum of the arts and cultures of the Islamic world by the Doris Duke Foundation for Islamic Art."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.7151208,21.3925378 ]
+    },
+    "properties": {
+    "ID":11,
+    "Name":"Lanikai Beach",
+    "Activity":"Play",
+    "Detail":"Beach",
+    "Address":"Lanikai Beach, Kailua, HI 96734",
+    "Link":"https://www.best-of-oahu.com/Lanikai-Beach-Oahu-Hawaii.html",
+    "Description":"White sand beach with turqoise water"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.7271126,21.3975749 ]
+    },
+    "properties": {
+    "ID":12,
+    "Name":"Kailua Beach Park",
+    "Activity":"Play",
+    "Detail":"Beach",
+    "Address":"526 Kawailoa Rd, Kailua, HI 96734",
+    "Link":"https://www.kailuabeachadventures.com/kailua-beach-park",
+    "Description":"Clear water, fine white sand & accessible facilities make this a popular spot for aquatic activities."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.7992015,21.3420389 ]
+    },
+    "properties": {
+    "ID":13,
+    "Name":"Moanoa Falls",
+    "Activity":"Play",
+    "Detail":"Hike",
+    "Address":"Manoa Falls, Honolulu, HI 96822",
+    "Link":"https://www.best-of-oahu.com/manoa-falls.html",
+    "Description":"Manoa Falls is a 150-foot waterfall along the Manoa Falls Trail in Honolulu, Hawaii. Swimming in the pool below the waterfall is highly discouraged because there is a threat of becoming infected with Leptospirosis, a disease causing mild to moderate flulike symptoms that can last for 1 to 2 weeks."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.8705315,21.3327971 ]
+    },
+    "properties": {
+    "ID":14,
+    "Name":"Bishop Museum",
+    "Activity":"Play",
+    "Detail":"Tour",
+    "Address":"1525 Bernice St, Honolulu, HI 96817",
+    "Link":"https://www.bishopmuseum.org/",
+    "Description":"The Bernice Pauahi Bishop Museum, designated the Hawaiʻi State Museum of Natural and Cultural History, is a museum of history and science in the historic Kalihi district of Honolulu on the Hawaiian island of Oʻahu."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.772822,21.2721819 ]
+    },
+    "properties": {
+    "ID":15,
+    "Name":"Plumeria Café",
+    "Activity":"Eat",
+    "Detail":"Brunch",
+    "Address":"5000 Kahala Ave Honolulu, HI 96816",
+    "Link":"https://www.kahalaresort.com/Dining/Plumeria-Beach-House",
+    "Description":"Comfortable & Casual. On the edge of the white sands of Kahala, the oceanside Plumeria Beach House is our open-air, all day dining restaurant."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.772822,21.2721819 ]
+    },
+    "properties": {
+    "ID":16,
+    "Name":"Hoku's at the Kahala",
+    "Activity":"Eat",
+    "Detail":"Brunch",
+    "Address":"5000 Kahala Ave, Honolulu, HI 96816",
+    "Link":"https://www.hokuskahala.com/",
+    "Description":"Sophisticated Pacific Rim fare served beachside at the Kahala Hotel, plus a lavish Sunday brunch."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.9302542,21.3790792 ]
+    },
+    "properties": {
+    "ID":17,
+    "Name":"Aiea Bowl",
+    "Activity":"Eat",
+    "Detail":"Snack",
+    "Address":"3 Aiea Shopping Center, 99-115 Aiea Heights Dr, Aiea, HI 96701",
+    "Link":"http://www.aieabowl.com/",
+    "Description":"From Dustin - Bowling center has nightly themes, from Glow Bowling to DJs, plus party packages & The Alley eatery."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.7538704,21.2791319 ]
+    },
+    "properties": {
+    "ID":18,
+    "Name":"Uncle Clay's",
+    "Activity":"Eat",
+    "Detail":"Shave Ice",
+    "Address":"820 W Hind Dr #116, Honolulu, HI 96821",
+    "Link":"https://houseofpurealoha.com/menu/",
+    "Description":"Bright, casual shop for all-natural Hawaiian shave ice made using locally sourced artisanal syrups."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.8286388,21.2924603 ]
+    },
+    "properties": {
+    "ID":19,
+    "Name":"Wailoa Shave Ice",
+    "Activity":"Eat",
+    "Detail":"Shave Ice",
+    "Address":"2135 Waiola St, Honolulu, HI 96826",
+    "Link":"https://www.instagram.com/waiolashaveice/?hl=en",
+    "Description":"Quaint, pint-sized grocery store is a local draw for its counter-serve shave ice & ice cream."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.7310944,21.3969179 ]
+    },
+    "properties": {
+    "ID":20,
+    "Name":"Island Snow",
+    "Activity":"Eat",
+    "Detail":"Shave Ice",
+    "Address":"130 Kailua Rd, Kailua, HI 96734",
+    "Link":"www.islandsnow.com",
+    "Description":"Local institution for athletic clothing from popular Hawaiian brands, with a shave-ice machine."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.7996241,21.2816303 ]
+    },
+    "properties": {
+    "ID":21,
+    "Name":"Koko Head Café",
+    "Activity":"Eat",
+    "Detail":"Breakfast",
+    "Address":"1120 12th Ave #100, Honolulu, HI 96816",
+    "Link":"https://www.kokoheadcafe.com/brunchallday/food",
+    "Description":"Celeb chef Lee Anne Wong runs this brunch stop for breakfast udon, congee & other Pan-Asian eats."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.8286301,21.2784002 ]
+    },
+    "properties": {
+    "ID":22,
+    "Name":"Island Vintage Coffee",
+    "Activity":"Eat",
+    "Detail":"Breakfast",
+    "Address":"2301 Kalākaua Ave #C215, Honolulu, HI 96815",
+    "Link":"https://www.islandvintagecoffee.com/pages/waikiki-royal-hawaiian-center-eng",
+    "Description":"Breakfast, homestyle cooking & health-conscious bowls served in a laid-back eatery within a mall."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.7289056,21.3784283 ]
+    },
+    "properties": {
+    "ID":23,
+    "Name":"Boots and Kimo",
+    "Activity":"Eat",
+    "Detail":"Breakfast",
+    "Address":"1020 Keolu Dr, Kailua, HI 96734",
+    "Link":"http://bootsnkimos.com/",
+    "Description":"Casual restaurant serving Hawaiian-American breakfast & lunch dishes, with patio seating available."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.8003227,21.2822993 ]
+    },
+    "properties": {
+    "ID":24,
+    "Name":"Mokes Bread and Breakfast",
+    "Activity":"Eat",
+    "Detail":"Breakfast",
+    "Address":"1127 11th Ave, Honolulu, HI 96816",
+    "Link":"http://www.mokeshawaii.com/",
+    "Description":"Breakfast & Brunch Restaurant. Lilikoi Pancakes & Hawaii Based Brunch"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.8265621,21.278252 ]
+    },
+    "properties": {
+    "ID":25,
+    "Name":"Liliha Bakery",
+    "Activity":"Eat",
+    "Detail":"Breakfast",
+    "Address":"2330 Kalākaua Ave #326, Honolulu, HI 96815",
+    "Link":"https://www.lilihabakery.com/",
+    "Description":"Home to the original Coco Puff, Poi Mochi Donuts, and Chantilly Cake. Open for breakfast, lunch, and dinner in Honolulu, Hawaii."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.8306647,21.2789295 ]
+    },
+    "properties": {
+    "ID":26,
+    "Name":"Musubi Café Iyasume",
+    "Activity":"Eat",
+    "Detail":"Breakfast",
+    "Address":"227 Lewers St. Honolulu, HI 96815",
+    "Link":"https://iyasumehawaii.com/",
+    "Description":"Straightforward takeaway specializing in rice balls with luncheon meat and/or sushi."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.8237158,21.276644 ]
+    },
+    "properties": {
+    "ID":27,
+    "Name":"Musubi Café Iyasume",
+    "Activity":"Eat",
+    "Detail":"Breakfast",
+    "Address":"2427 Kuhio Ave,\nPacific Monarch Hotel 1F,\nHonolulu, HI 96815",
+    "Link":"https://iyasumehawaii.com/",
+    "Description":"Straightforward takeaway specializing in rice balls with luncheon meat and/or sushi."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.8279415,21.2796225 ]
+    },
+    "properties": {
+    "ID":28,
+    "Name":"Musubi Café Iyasume",
+    "Activity":"Eat",
+    "Detail":"Breakfast",
+    "Address":"334 Seaside Ave, Honolulu, HI 96815",
+    "Link":"https://iyasumehawaii.com/",
+    "Description":"Straightforward takeaway specializing in rice balls with luncheon meat and/or sushi."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.8460375,21.2918195 ]
+    },
+    "properties": {
+    "ID":29,
+    "Name":"Musubi Café Iyasume",
+    "Activity":"Eat",
+    "Detail":"Breakfast",
+    "Address":"1450 Ala Moana Boulevard,\nHonolulu, HI 96814",
+    "Link":"https://iyasumehawaii.com/",
+    "Description":"Straightforward takeaway specializing in rice balls with luncheon meat and/or sushi."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.8423906,21.294198 ]
+    },
+    "properties": {
+    "ID":30,
+    "Name":"Musubi Café Iyasume",
+    "Activity":"Eat",
+    "Detail":"Breakfast",
+    "Address":"638 Keeaumoku St.,\nHonolulu, HI 96814",
+    "Link":"https://iyasumehawaii.com/",
+    "Description":"Straightforward takeaway specializing in rice balls with luncheon meat and/or sushi."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.7859118,21.2769457 ]
+    },
+    "properties": {
+    "ID":31,
+    "Name":"Musubi Café Iyasume",
+    "Activity":"Eat",
+    "Detail":"Breakfast",
+    "Address":"4211 Waialae Ave, #G-19,\nHonolulu, HI 96816",
+    "Link":"https://iyasumehawaii.com/",
+    "Description":"Straightforward takeaway specializing in rice balls with luncheon meat and/or sushi."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -158.0025418,21.383843 ]
+    },
+    "properties": {
+    "ID":32,
+    "Name":"Honolulu Kitchen",
+    "Activity":"Eat",
+    "Detail":"Breakfast",
+    "Address":"94-861 Farrington Hwy, Waipahu, HI 96797",
+    "Link":"https://www.yelp.com/biz/honolulu-kitchen-waipahu",
+    "Description":"Asian & Chinese fare plus signature fried buns in many flavors, served at a counter in humble digs."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.798456,21.282622 ]
+    },
+    "properties": {
+    "ID":33,
+    "Name":"Pipeline Bakeshop",
+    "Activity":"Eat",
+    "Detail":"Breakfast",
+    "Address":"3632 Waialae Ave, Honolulu, HI 96816",
+    "Link":"https://pipelinebakeshop.com/",
+    "Description":"Scooping house-made ice cream, this dessert spot also offers baked goods including malasadas."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.813842,21.2810565 ]
+    },
+    "properties": {
+    "ID":34,
+    "Name":"Ono Seafood",
+    "Activity":"Eat",
+    "Detail":"Poke",
+    "Address":"747 Kapahulu Ave, Honolulu, HI 96816",
+    "Link":"https://onolicioushawaii.com/ono-seafood/",
+    "Description":"Locals flock to this no-frills eatery for the variety of ahi poke & a chill, laid-back atmosphere."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.8460375,21.2918195 ]
+    },
+    "properties": {
+    "ID":35,
+    "Name":"Foodland",
+    "Activity":"Eat",
+    "Detail":"Poke",
+    "Address":"1450 Ala Moana Blvd, Honolulu, HI 96814",
+    "Link":"https://shop.foodland.com/",
+    "Description":"Local supermarket chain with departments for produce, general groceries & Hawaiian specialties."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.8139525,21.2879299 ]
+    },
+    "properties": {
+    "ID":36,
+    "Name":"Foodland",
+    "Activity":"Eat",
+    "Detail":"Poke",
+    "Address":"2939 Harding Ave, Honolulu, HI 96816",
+    "Link":"https://shop.foodland.com/",
+    "Description":"Local supermarket chain with departments for produce, general groceries & Hawaiian specialties."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.8846568,21.3243992 ]
+    },
+    "properties": {
+    "ID":37,
+    "Name":"Alicia's Market",
+    "Activity":"Eat",
+    "Detail":"Poke",
+    "Address":"267 Mokauea St, Honolulu, HI 96819",
+    "Link":"http://www.aliciasmarket.com/",
+    "Description":"Convenience store offering produce, seafood, & spirits, plus cooked Hawaiian & Chinese entrees."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.8132698,21.2849227 ]
+    },
+    "properties": {
+    "ID":38,
+    "Name":"Leonard's Bakery",
+    "Activity":"Eat",
+    "Detail":"Snack",
+    "Address":"933 Kapahulu Ave, Honolulu, HI 96816",
+    "Link":"http://www.leonardshawaii.com/",
+    "Description":"Local fixture since 1952 for malasadas (Portuguese donuts), breads, pastries & other sweets."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.825621,21.278831 ]
+    },
+    "properties": {
+    "ID":39,
+    "Name":"Kona Coffee Purveyor",
+    "Activity":"Eat",
+    "Detail":"Snack",
+    "Address":"2330 Kalākaua Ave #160, Honolulu, HI 96815",
+    "Link":"http://konacoffeepurveyors.com/",
+    "Description":"A stylish spot for artisan Kona coffee & b. patisserie baked goods, plus wine in the evenings."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -158.1095589,21.5688616 ]
+    },
+    "properties": {
+    "ID":40,
+    "Name":"PaaLaa Kai Bakery",
+    "Activity":"Eat",
+    "Detail":"Snack",
+    "Address":"66-935 Kaukonahua Rd, Waialua, HI 96791",
+    "Link":"http://www.pkbsweets.com/",
+    "Description":"Baker specializing in malassadas, or Portuguese donuts, plus the snow puffy, an original pastry."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.8504644,21.2933715 ]
+    },
+    "properties": {
+    "ID":41,
+    "Name":"Scratch Kitchen",
+    "Activity":"Eat",
+    "Detail":"Snack",
+    "Address":"1170 Auahi St Suite 175, Honolulu, HI 96814",
+    "Link":"http://www.scratch-hawaii.com/",
+    "Description":"Relaxed spot serving creative takes on global comfort foods with cocktails in funky digs."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.8258444,21.2796528 ]
+    },
+    "properties": {
+    "ID":42,
+    "Name":"Marugame Udon",
+    "Activity":"Eat",
+    "Detail":"Snack",
+    "Address":"2310 Kūhiō Ave., Honolulu, HI 96815",
+    "Link":"https://www.marugameudon.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ",
+    "Description":"Guests order at the counter at this casual Japanese restaurant specializing in noodle soup."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.8294654,21.2788413 ]
+    },
+    "properties": {
+    "ID":43,
+    "Name":"Tim Ho Wan",
+    "Activity":"Eat",
+    "Detail":"Snack",
+    "Address":"2233 Kalākaua Ave suite b-303, Honolulu, HI 96815",
+    "Link":"http://timhowanusa.com/locations/",
+    "Description":"Dim sum restaurant"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.7309081,21.3969801 ]
+    },
+    "properties": {
+    "ID":44,
+    "Name":"Bob's Pizzeria",
+    "Activity":"Eat",
+    "Detail":"Snack",
+    "Address":"130 Kailua Rd #112, Kailua, HI 96734",
+    "Link":"http://bobspizzeriakailua.com/",
+    "Description":"Pizza restaurant"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.8307149,21.2812775 ]
+    },
+    "properties": {
+    "ID":45,
+    "Name":"Ramen Nakamura",
+    "Activity":"Eat",
+    "Detail":"Snack",
+    "Address":"2141 Kalākaua Ave #1, Honolulu, HI 96815",
+    "Link":"https://www.yelp.com/biz/ramen-nakamura-honolulu",
+    "Description":"Casual, contemporary eatery featuring many varieties of ramen, plus gyoza & fried rice."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.8145272,21.2759342 ]
+    },
+    "properties": {
+    "ID":46,
+    "Name":"Rainbow Drive",
+    "Activity":"Eat",
+    "Detail":"Lunch",
+    "Address":"3308 Kanaina Ave, Honolulu, HI 96815",
+    "Link":"https://rainbowdrivein.com/menu/",
+    "Description":"Iconic counter-serve spot for Hawaiian plate lunches features BBQ, mahi mahi, chili dogs & more."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.8258444,21.2796528 ]
+    },
+    "properties": {
+    "ID":47,
+    "Name":"Kono's Northshore",
+    "Activity":"Eat",
+    "Detail":"Lunch",
+    "Address":"2310 Kūhiō Ave. #1-A, Honolulu, HI 96815",
+    "Link":"https://www.konosnorthshore.com/",
+    "Description":"best Kalua pig on the islands in the form of our award-winning breakfasts and plate lunches which are served alongside our hand-crafted milkshakes and freshly squeezed limeade and lemonades throughout the day."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.6972148,21.333408 ]
+    },
+    "properties": {
+    "ID":48,
+    "Name":"Ono Steak n Shrimp Shack",
+    "Activity":"Eat",
+    "Detail":"Lunch",
+    "Address":"41-037 Wailea St, Waimanalo, HI 96795",
+    "Link":"https://www.yelp.com/biz/ono-steaks-and-shrimp-shack-waimanalo",
+    "Description":"Funky, brightly colored counter serve for seafood, burgers & Hawaiian specialties like loco moco."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.8309674,21.2800064 ]
+    },
+    "properties": {
+    "ID":49,
+    "Name":"Tonkatsu Ginza Bairin",
+    "Activity":"Eat",
+    "Detail":"Lunch",
+    "Address":"255 Beach Walk, Honolulu, HI 96815",
+    "Link":"https://www.ginzabairinhawaii.com/full-menu/",
+    "Description":"Cozy restaurant specializing in Japanese breaded pork cutlets, plus seafood & poultry options."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.8153888,21.2748857 ]
+    },
+    "properties": {
+    "ID":50,
+    "Name":"Tonkatsu Tamafuji",
+    "Activity":"Eat",
+    "Detail":"Lunch",
+    "Address":"449 Kapahulu Ave, Honolulu, HI 96815",
+    "Link":"https://tamafuji-us.com/menu-en.html",
+    "Description":"Lively 2nd-floor eatery drawing crowds for house-special breaded pork entrees & other Japanese grub."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.8623772,21.3117452 ]
+    },
+    "properties": {
+    "ID":51,
+    "Name":"Lucky Belly",
+    "Activity":"Eat",
+    "Detail":"Lunch",
+    "Address":"50 N Hotel St, Honolulu, HI 96817",
+    "Link":"https://luckybellyhi.com/",
+    "Description":"Reclaimed wood & brick walls adorn this hip Asian eatery featuring a window for takeaway."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.8520883,21.2927179 ]
+    },
+    "properties": {
+    "ID":52,
+    "Name":"Piggy Small",
+    "Activity":"Eat",
+    "Detail":"Lunch",
+    "Address":"1200 Ala Moana Blvd, Honolulu, HI 96814",
+    "Link":"https://thepigandthelady.com/piggysmalls",
+    "Description":"Hip, relaxed restaurant offering creative Vietnamese sandwiches, noodle dishes, pho & other eats."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.8356639,21.2971806 ]
+    },
+    "properties": {
+    "ID":53,
+    "Name":"I-Naba",
+    "Activity":"Eat",
+    "Detail":"Lunch",
+    "Address":"1610 S King St # A, Honolulu, HI 96826",
+    "Link":"https://inabahonolulu.com/",
+    "Description":"Unassuming destination serving Japanese classics including soba, tempura & sushi."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.8651412,21.330993 ]
+    },
+    "properties": {
+    "ID":54,
+    "Name":"Helena's",
+    "Activity":"Eat",
+    "Detail":"Dinner",
+    "Address":"1240 N School St, Honolulu, HI 96817",
+    "Link":"https://www.helenashawaiianfood.com/",
+    "Description":"Pared-down restaurant specializing in local classics such as kalua pork, lomi salmon & ribs."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.8211603,21.2632657 ]
+    },
+    "properties": {
+    "ID":55,
+    "Name":"Hau Tree",
+    "Activity":"Eat",
+    "Detail":"Dinner",
+    "Address":"2863 Kalakaua Avenue, Lobby floor of the Kaimana Beach Hotel, Honolulu, HI 96815",
+    "Link":"https://www.kaimana.com/dining",
+    "Description":"Seaside eatery doling out creative Pacific Rim fare & brunch at the New Otani Kaimana Beach Hotel."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.8636749,21.3114491 ]
+    },
+    "properties": {
+    "ID":56,
+    "Name":"Pig n Lady",
+    "Activity":"Eat",
+    "Detail":"Dinner",
+    "Address":"83 N King St, Honolulu, HI 96817",
+    "Link":"https://thepigandthelady.com/",
+    "Description":"Featuring globally accented, modern Vietnamese cooking in a lively setting with communal tables."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.8424298,21.2990592 ]
+    },
+    "properties": {
+    "ID":57,
+    "Name":"Golden Pork",
+    "Activity":"Eat",
+    "Detail":"Ramen",
+    "Address":"1279 S King St, Honolulu, HI 96814",
+    "Link":"https://golden-pork-tonkotsu-ramen-bar.business.site/",
+    "Description":"Japanese noodles & small plates served with sake & beer in a comfortable setting."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.8389081,21.2935014 ]
+    },
+    "properties": {
+    "ID":58,
+    "Name":"Santouka",
+    "Activity":"Eat",
+    "Detail":"Ramen",
+    "Address":"801 Kaheka St A-8, Honolulu, HI 96814",
+    "Link":"https://www.yelp.com/biz/hokkaido-ramen-santouka-honolulu",
+    "Description":"Hokkaido Ramen Santouka"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.8102269,21.3099668 ]
+    },
+    "properties": {
+    "ID":59,
+    "Name":"Off the Hook",
+    "Activity":"Eat",
+    "Detail":"Dinner",
+    "Address":"2908 E Manoa Rd, Honolulu, HI 96822",
+    "Link":"https://www.offthehookpokemarket.com/",
+    "Description":"We started Off The Hook Poke Market in 2018 with one goal in mind: to serve the freshest and best Poke in Hawaii. Thanks to our hard working and dedicated crew, in 2019 we won the Ilima Award for Hawaii's Best Seafood Restaurant."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -158.0011292,21.3841751 ]
+    },
+    "properties": {
+    "ID":60,
+    "Name":"Tanioka's",
+    "Activity":"Eat",
+    "Detail":"Dinner",
+    "Address":"94-903 Farrington Hwy, Waipahu, HI 96797",
+    "Link":"http://www.taniokas.com/",
+    "Description":"This veteran, casual restaurant open for breakfast & lunch specializes in Hawaiian seafood classics."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.8144341,21.2760095 ]
+    },
+    "properties": {
+    "ID":61,
+    "Name":"Shimazu",
+    "Activity":"Eat",
+    "Detail":"Shave Ice",
+    "Address":"3111 Castle St, Honolulu, HI 96815",
+    "Link":"https://www.instagram.com/shimazu_shave_ice/?hl=en",
+    "Description":"Shaved Ice"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.8136889,21.2692115 ]
+    },
+    "properties": {
+    "ID":62,
+    "Name":"Monsarrat Shave Ice Natural Organic Fruit",
+    "Activity":"Eat",
+    "Detail":"Shave Ice",
+    "Address":"3046 Monsarrat Ave, Honolulu, HI 96815",
+    "Link":"https://www.instagram.com/monsarratshaveice/?hl=en",
+    "Description":"Monsarrat Shave Ice Natural Organic Fruit"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.8135841,21.2861663 ]
+    },
+    "properties": {
+    "ID":63,
+    "Name":"Sweet E's",
+    "Activity":"Eat",
+    "Detail":"Breakfast",
+    "Address":"1006 Kapahulu Ave, Honolulu, HI 96816",
+    "Link":"https://sweetescafe.com/",
+    "Description":"French toast & other breakfast/brunch dishes in a cozy space with comfy-chic decor."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.7431179,21.3950809 ]
+    },
+    "properties": {
+    "ID":64,
+    "Name":"Over Easy",
+    "Activity":"Eat",
+    "Detail":"Breakfast",
+    "Address":"418 Kuulei Rd #103, Kailua, HI 96734",
+    "Link":"https://www.easyquehi.com/",
+    "Description":"Cheery spot for creative breakfast & lunch made using local ingredients, plus cocktails."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.7420851,21.3968611 ]
+    },
+    "properties": {
+    "ID":65,
+    "Name":"Cinnamons",
+    "Activity":"Eat",
+    "Detail":"Breakfast",
+    "Address":"315 Uluniu St, Kailua, HI 96734",
+    "Link":"https://cinnamons808.com/",
+    "Description":"Breakfast & lunch menus including red velvet pancakes, cinnamon buns & crab cakes in a casual space."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.7485415,21.4234336 ]
+    },
+    "properties": {
+    "ID":66,
+    "Name":"Tamura's Fine Wine & Liquors Aikahi",
+    "Activity":"Eat",
+    "Detail":"Poke",
+    "Address":"25 Kaneohe Bay Dr #106, Kailua, HI 96734",
+    "Link":"http://tamurasfinewine.com/",
+    "Description":"Store with a wide variety of beers, wines, spirits & cigars, plus some artisanal foodstuffs."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.8049799,21.2717986 ]
+    },
+    "properties": {
+    "ID":67,
+    "Name":"Fort Ruger Market",
+    "Activity":"Eat",
+    "Detail":"Poke",
+    "Address":"3585 Alohea Ave, Honolulu, HI 96816",
+    "Link":"https://www.instagram.com/rugermarket/?hl=en",
+    "Description":"Hawaiian & Filipino specialties served in an enduring, down-to-earth fixture also selling groceries."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.8014339,21.4183688 ]
+    },
+    "properties": {
+    "ID":68,
+    "Name":"Adelas Country Eatery",
+    "Activity":"Eat",
+    "Detail":"Lunch",
+    "Address":"45-1151 Kamehameha Hwy #2, Kaneohe, HI 96744",
+    "Link":"https://adelascountryeatery.com/",
+    "Description":"Comfy carry-out option spotlighting homemade Hawaiian pasta, plus Asian & American eats."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.882038,21.3246646 ]
+    },
+    "properties": {
+    "ID":69,
+    "Name":"Poke By the Pound",
+    "Activity":"Eat",
+    "Detail":"Poke",
+    "Address":"322 Kalihi St, Honolulu, HI 96819",
+    "Link":"https://www.pokebythepound.com/",
+    "Description":"We properly cure and store all fish until it's ready to be turned into some of your favorite poke. When you buy from us, know you're getting the freshest product and supporting the local fishermen of Hawaii."
+    }
+  }
+]
+}
